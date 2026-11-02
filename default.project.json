@@ -1,0 +1,12 @@
+{
+  "name": "luau-table-utils",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "TableUtils": {
+        "$path": "source"
+      }
+    }
+  }
+}
